@@ -1,0 +1,107 @@
+
+1. Tubelight Class
+class Tubelight:
+    def _init_():
+        brand = brand
+        watt = watt
+        color = color
+        length = length
+        price = price
+
+    def switch_on:
+        print("Tubelight is switched on")
+
+    def switch_off:
+        print("Tubelight is switched off")
+
+    def change_color:
+        print("Tubelight color is changed")
+
+    def show_watt:
+        print("Tubelight watt is",watt)
+
+    def show_price:
+        print("Tubelight price is",price)
+
+
+2. Blanket Class
+class Blanket:
+    def _init_():
+        color = color
+        material = material
+        size = size
+        weight = weight
+        price = price
+
+    def use:
+        print("Blanket is being used")
+
+  
+    def wash:
+        print("Blanket is being washed")
+
+  
+    def show_price:
+        print("Blanket price is",price)
+
+
+3. Medicine Class
+class Medicine:
+    def _init_():
+        name = name
+        price = price
+        type = type
+        quantity = quantity
+        company = company
+
+    def take_medicine:
+        print("Taking", name)
+
+    def show_price:
+        print("Medicine price is", price)
+
+    def show_company:
+        print("Medicine company is", company)
+
+    def check_quantity:
+        print("Medicine quantity is", quantity)
+
+4. Paper Class
+class Paper:
+    def _init_():
+        color = color
+        size = size
+        thickness = thickness
+        weight = weight
+        price = price
+
+    def write:
+        print("Writing on the paper")
+
+    def tear:
+        print("Tearing the paper")
+
+    def print_document:
+        print("Printing on the paper")
+
+    def show_price:
+        print("Paper price is",price)
+
+
+5. Specs Class
+class Specs:
+    def _init_():
+        brand = brand
+        color = color
+        lens_type = lens_type
+        frame_material = frame_material
+        price = price
+
+    def wear:
+        print("Wearing specs")
+
+    def clean:
+        print("Cleaning specs")
+
+    def adjust:
+        print("Adjusting specs")
